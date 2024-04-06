@@ -31,7 +31,7 @@
   
 ## Part 3: Displaying Fetched Data  
   
-- Once the data is successfully fetched and the component's state is updated, display the Star Wars character's name and any other relevant information you wish to include (e.g., birth year, eye color).
+- Once the data is successfully fetched and the component's state is updated, display the Star Wars character's name and any other relevant information you wish to include (e.g., birth year, eye color).  
 ![image](https://github.com/rja87sd/w2-d3-assignment/assets/145504216/d56a8e42-bb44-41b6-b8c8-2d71fb215d34)  
   
 ## Part 4: GitHub Repository Update  
