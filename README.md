@@ -2,7 +2,7 @@
 ## Part 1: Fetching Data with useEffect  
 ### Create a New Component:  
   
-- In your project's components directory, create a file named StarWarsCharacter.js.
+- In your project's components directory, create a file named StarWarsCharacter.js.  
 ![image](https://github.com/rja87sd/w2-d3-assignment/assets/145504216/8ff4bf37-68d4-49cb-a290-1862a644de63)  
   
 - This component will be responsible for fetching data about a specific Star Wars character from the SWAPI.
